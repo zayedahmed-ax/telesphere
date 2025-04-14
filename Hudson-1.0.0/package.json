@@ -1,0 +1,32 @@
+{
+  "name": "talent-sphere",
+  "version": "1.0.0",
+  "description": "Talent Sphere HR Consultancy Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'",
+    "test": "echo 'No tests specified'",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/talent-sphere.git"
+  },
+  "keywords": [
+    "hr",
+    "consultancy",
+    "website",
+    "responsive"
+  ],
+  "author": "Talent Sphere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/talent-sphere/issues"
+  },
+  "homepage": "https://yourusername.github.io/talent-sphere",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "gh-pages": "^6.1.1"
+  }
+} 
