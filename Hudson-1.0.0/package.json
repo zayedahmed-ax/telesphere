@@ -1,5 +1,5 @@
 {
-  "name": "talent-sphere",
+  "name": "telesphere",
   "version": "1.0.0",
   "description": "Talent Sphere HR Consultancy Website",
   "main": "index.html",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/talent-sphere.git"
+    "url": "git+https://github.com/zayedahmed-ax/telesphere.git"
   },
   "keywords": [
     "hr",
@@ -22,9 +22,9 @@
   "author": "Talent Sphere",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/talent-sphere/issues"
+    "url": "https://github.com/zayedahmed-ax/telesphere/issues"
   },
-  "homepage": "https://yourusername.github.io/talent-sphere",
+  "homepage": "https://zayedahmed-ax.github.io/telesphere",
   "devDependencies": {
     "serve": "^14.2.0",
     "gh-pages": "^6.1.1"
